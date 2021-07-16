@@ -1,0 +1,5 @@
+https://cdn.jsdelivr.net/gh/3606655/upload/文件路径
+
+
+如下：
+https://cdn.jsdelivr.net/gh/3606655/upload/fahuo_img/fengmian/fmt-smzdm.png
